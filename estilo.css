@@ -1,0 +1,36 @@
+body {
+    background-image: url('imagens/fundo.png');
+}
+
+.menu {
+    font-size: 1.5em;
+}
+
+.sobre {
+    width: 900px;
+    height: 310px;
+    background-color: beige;
+}
+.campanhas{
+    width: 900px;
+    background-color: beige;
+}
+p {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#titulosobre {
+    margin-top: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: rgb(145, 145, 125);
+}
+
+.rodape {
+    width: 900px;
+    text-align: center;
+}
+img{
+    border: 10px solid rgb(145, 145, 125);
+}
