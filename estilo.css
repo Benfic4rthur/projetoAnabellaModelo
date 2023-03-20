@@ -1,5 +1,7 @@
 body {
     background-image: url('imagens/fundo.png');
+    background-color: #d2d2c1;
+    font: 16px Arial, Helvetica, sans-serif;
 }
 
 .menu {
@@ -8,7 +10,12 @@ body {
 
 .sobre {
     width: 900px;
-    height: 310px;
+    height: 280px;
+    background-color: beige;
+}
+.biografia {
+    width: 900px;
+    height: 300px;
     background-color: beige;
 }
 .campanhas{
