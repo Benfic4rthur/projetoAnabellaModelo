@@ -3,41 +3,30 @@ body {
     background-color: #d2d2c1;
     font: 16px Arial, Helvetica, sans-serif;
 }
-
-.menu {
-    font-size: 1.5em;
+#principal{
+    width: 920px;
 }
-
-.sobre {
-    width: 900px;
-    height: 280px;
-    background-color: beige;
+#menu{
+    background: #c5c5b2;
+    padding: 18px;
 }
-.biografia {
-    width: 900px;
-    height: 300px;
-    background-color: beige;
+#conteudo{
+    background: #e8e8d9;
+    padding: 10px;
 }
-.campanhas{
-    width: 900px;
-    background-color: beige;
-}
-p {
-    margin-left: 10px;
-    margin-right: 10px;
-}
-
-#titulosobre {
-    margin-top: 5px;
-    margin-left: 10px;
-    margin-right: 10px;
+#sobre{
     color: rgb(145, 145, 125);
 }
-
-.rodape {
-    width: 900px;
+#rodape{
     text-align: center;
 }
+
+a{
+    color: #4b566a;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+}
 img{
-    border: 10px solid rgb(145, 145, 125);
+    border: 10px solid #c3c3ae;
 }
